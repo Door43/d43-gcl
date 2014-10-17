@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gcl:home|Door43 (gcl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gcl|d43-gcl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gcl/archive/master.zip|d43-gcl.zip]]
+
+**Recent Changes**
+{{changes>ns = gcl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gcl|Ethnologue data]]
+
